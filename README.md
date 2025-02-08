@@ -1,6 +1,2 @@
-# Weighted Multidirectional Sparsity Regularized Low-ranktensor Representation for Hyperspectral Anomaly Detection
-The code in this toolbox implements the 'Weighted Multidirectional Sparsity Regularized Low-ranktensor Representation for Hyperspectral Anomaly Detection'.
-### Quick Testing
-Unzip tools.zip and directly run demo.m.
-### Citation
-Please give credit to this paper if this code is useful and helpful for your research.
+# Exploiting Weighted Multidirectional Sparsity for Prior Enhanced Anomaly Detection in Hyperspectral Images
+The code in this toolbox implements the 'Exploiting Weighted Multidirectional Sparsity for Prior Enhanced Anomaly Detection in Hyperspectral Images'.
